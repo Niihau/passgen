@@ -3,10 +3,9 @@ package main
 import (
 	"flag"
 	"fmt"
+	"github.com/1set/gut/yrand"
 	"os"
 	"strings"
-
-	"github.com/an63/gut/yrand"
 )
 
 var (
